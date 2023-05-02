@@ -7,6 +7,8 @@
 
 - 작업 과정 기록
 Notion : https://melon-zenith-f41.notion.site/6c58e350d94c4e3eaad7384fa3af6ce3?v=f0ed65818d3f4e68995d146f137ddb5a
+pdf : [프로젝트 노트.pdf](https://github.com/Asha-Be/GoodNeighbor-TeamProject/files/11369527/default.pdf)
+
 
 - 프레젠 테이션 : http://naver.me/5NqvMh0b
 
